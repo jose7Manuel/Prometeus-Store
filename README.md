@@ -1,5 +1,5 @@
 # Prometeus-Store
 Tienda de Ropa
 # Proyecto Web
-# Se creo la base de datos
+# Tienda dedicada a la venta de ropa deportiva
 
