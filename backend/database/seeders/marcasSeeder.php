@@ -20,13 +20,13 @@ class marcasSeeder extends Seeder
         DB::table('marcas')->insert([
             [
                 'Nombre'=> 'Guchi',
-                'Detalle'=>'Pantalon',
+                'Pais'=>'EE UU',
                 'created_at'=> now(),
                 'updated_at'=> now(),
             ],
             [
-                'Nombre'=> 'Nike',
-                'Detalle'=>'Tenis',
+                'Nombre'=> 'Halen',
+                'Pais'=>'Canada',
                 'created_at'=> now(),
                 'updated_at'=> now(),
             ]

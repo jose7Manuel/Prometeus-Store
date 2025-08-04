@@ -9,6 +9,7 @@ use App\Http\Controllers\marcasController;
 use App\Http\Controllers\AuthController;
 
 Route::apiResource('marcas', marcasController::class);
+Route::apiResource('productos', marcasController::class);
 
 Route::post('/register', [AuthController::class, 'register']);
 
